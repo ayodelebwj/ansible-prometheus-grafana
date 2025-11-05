@@ -1,0 +1,5 @@
+[grafana]
+aaa  ansible-user=ubuntu
+
+[prometheus]
+aaa  ansible-user=ubuntu
